@@ -52,5 +52,6 @@ def auth_callback(username: str, password: str):
             identifier="Student",
             metadata={"role": "student", "provider": "credentials"},
         )
+    
     else:
-        return None
+        return None 
