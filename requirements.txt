@@ -17,7 +17,7 @@ black==25.1.0
 build==1.3.0
 cachetools==5.5.2
 certifi==2025.8.3
-chainlit==2.8.0
+chainlit==2.11.0
 charset-normalizer==3.4.3
 chevron==0.14.0
 chromadb==1.0.21
@@ -206,7 +206,7 @@ tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.35.0
 uvloop==0.21.0
-watchfiles==0.24.0
+watchfiles==1.1.1
 wcwidth==0.2.13
 websocket-client==1.8.0
 websockets==15.0.1
